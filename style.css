@@ -1,0 +1,14 @@
+* {
+    font-family: monospace;
+}
+
+p {
+    font-family: monospace;
+}
+
+ul {
+  list-style-type: none;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0;
+}
